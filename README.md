@@ -13,6 +13,11 @@ link https://www.kaggle.com/datasets/mustafaoz158/healthcare-insurance?resource=
 
 <img width="739" height="356" alt="image" src="https://github.com/user-attachments/assets/a0fb1703-d55d-4268-87ca-00fda4f71751" />
 
+
+<img width="364" height="519" alt="image" src="https://github.com/user-attachments/assets/781dc321-8d09-428c-82e0-a2491cd5d819" />
+
+
+
 In short 
 
 the goal is to use these insights—derived from comparative analysis across different groups—to develop data-driven models that inform risk management, aid in setting fair insurance premiums, and guide targeted public health or healthcare intervention strategies.
