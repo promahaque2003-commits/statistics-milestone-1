@@ -1,0 +1,1 @@
+The following dataset is based on health insurance where a set of people with different age, height,gender, and region were asked to give the information about their healthcare expenses. This sectiondetails how these variables (age, gender, BMI, etc.) have affected their medical insurance charges
